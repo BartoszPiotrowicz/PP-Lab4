@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming Files\\PP-04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE8D51E-9A41-46BB-9B91-8E0E3A3A7F63}|Lab4\\Lab4.csproj|d:\\programming files\\pp-04\\lab4\\zad6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDE8D51E-9A41-46BB-9B91-8E0E3A3A7F63}|Lab4\\Lab4.csproj|solutionrelative:lab4\\zad6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zad6.cs",
+              "DocumentMoniker": "D:\\Programming Files\\PP-04\\Lab4\\Zad6.cs",
+              "RelativeDocumentMoniker": "Lab4\\Zad6.cs",
+              "ToolTip": "D:\\Programming Files\\PP-04\\Lab4\\Zad6.cs",
+              "RelativeToolTip": "Lab4\\Zad6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T18:58:35.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
